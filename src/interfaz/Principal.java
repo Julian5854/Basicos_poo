@@ -25,6 +25,8 @@ public class Principal {
         System.out.println("Ejemplo de ciclos");
         EjemploCiclo el = new EjemploCiclo();
         el.operacion();
+        
+        
     }
 
 }
